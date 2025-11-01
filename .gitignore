@@ -26,3 +26,4 @@ Thumbs.db
 /.buildpath
 /.editorconfig
 /.project
+/composer.lock
