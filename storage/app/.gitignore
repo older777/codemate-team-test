@@ -2,4 +2,4 @@
 !private/
 !public/
 !.gitignore
-!pic1.png
+!*.png

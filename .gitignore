@@ -27,3 +27,4 @@ Thumbs.db
 /.editorconfig
 /.project
 /composer.lock
+/.env.testing
